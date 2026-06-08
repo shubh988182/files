@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-* 
+
+# macOS
+.DS_Store
+
+# Config
+config.py
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
